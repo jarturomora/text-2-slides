@@ -1,1 +1,1 @@
-pandoc -f markdown -t html5 -o ../assets/html-files/what-is-marlowe.html ../assets/md-files/what-is-marlowe.md
+pandoc -f markdown -t html5 -o assets/html-files/what-is-marlowe.html assets/md-files/what-is-marlowe.md

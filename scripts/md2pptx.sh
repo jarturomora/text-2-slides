@@ -1,0 +1,1 @@
+pandoc assets/md-files/demo-pandoc.md -o assets/pptx-files/demo-pandoc.pptx
